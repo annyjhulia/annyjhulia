@@ -8,7 +8,7 @@
 <h3>Sobre mim</h3>
   <ul>
     <li>Tenho 18 anos.</li>
-    <li>Atualmente cursando engenharia de software no <a color=FE1097 href="https://www.inteli.edu.br">Instituto de Tecnologia e Liderança</a>.</li>
+    <li>Atualmente cursando engenharia de software no <a href="https://www.inteli.edu.br" style="color:#FE1097;">Instituto de Tecnologia e Liderança</a>.</li>
     <li>Sou apaixonada por artes, música e literatura.</li>
    </ul>
 
@@ -26,12 +26,12 @@
   <ul>
     <li>Sempre fui muito hiperativa, e quando criança quebrei os dois braçoes em sequência.</li>
     <li>Tenho o cabelo rosa há 3 anos, o que era um sonho de infância e se teornou minha marca.</li>
-    <li>Tenho um <a href="https://www.instagram.com/lettersformoony">bookgram</a> (inativo).</li>
+    <li>Tenho um <a href="https://www.instagram.com/lettersformoony" style="color:#FE1097;">bookgram</a> (inativo).</li>
   </ul>
 
 <h3>Conheça minha buddy</h3>
  <ul>
-    <li> Minha buddy é a <a href="https://github.com/thalytaviana">Thalyta Viana</a>, que está me acompanhando e apoiando durante esse início de ano! </li>
+    <li> Minha buddy é a <a href="https://github.com/thalytaviana" style="color:#FE1097;">Thalyta Viana</a>, que está me acompanhando e apoiando durante esse início de ano! </li>
  </ul>
 
 ---
