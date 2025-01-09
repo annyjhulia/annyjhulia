@@ -7,8 +7,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annyjhulia&show_icons=true&locale=en" alt="annyjhulia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annyjhulia&" alt="annyjhulia" /></p>
-
 <!--
 **annyjhulia/annyjhulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
