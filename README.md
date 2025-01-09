@@ -1,8 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 <h1>Oi, eu sou a Anny! Seja bem-vindo ao meu perfil!</h1>
 <h3>Sobre mim:</h3>
-  <li>Tenho 18 anos.</li>
-  <li>Atualmente cursando engenharia de software no <a href="https://www.inteli.edu.br">Instituto de Tecnologia e Liderança</a>.</li>
-  <li>Sou apaixonada por artes, música e literatura.</li>
+  <ul>
+    <li>Tenho 18 anos.</li>
+    <li>Atualmente cursando engenharia de software no <a href="https://www.inteli.edu.br">Instituto de Tecnologia e Liderança</a>.</li>
+    <li>Sou apaixonada por artes, música e literatura.</li>
+   </ul>
 
 <h3>Fun fact:</h3>
   <ul>
