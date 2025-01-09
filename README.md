@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
-<h1>Oi, eu sou a Anny! Seja bem-vindo ao meu perfil!</h1>
+<h2>Oi, eu sou a Anny!</h2>
 <h3>Sobre mim:</h3>
   <ul>
     <li>Tenho 18 anos.</li>
