@@ -19,9 +19,9 @@
 
       
   <div align="center">
-    <img height="120em" style="margin-right: 8px;" src="https://github-readme-stats.vercel.app/api?username=annyjhulia&hide=stars,prs&show_icons=true&theme=jolly" alt="Estatísticas do GitHub da Anny"/>
+    <img height="120em" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=annyjhulia&hide=stars,prs&show_icons=true&theme=jolly" alt="Estatísticas do GitHub da Anny"/>
   </a>
   <a href="https://github.com/annyjhulia" target="_blank">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annyjhulia&theme=jolly&layout=compact" alt="Linguagens mais utilizadas pela Anny"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annyjhulia&theme=jolly&layout=compact" alt="Linguagens mais utilizadas pela Anny"/>
   </a>
 </div>
