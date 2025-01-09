@@ -1,19 +1,28 @@
 
-<h3>Sobre mim:</h3>
+<h3>Sobre mim</h3>
   <ul>
     <li>Tenho 18 anos.</li>
     <li>Atualmente cursando engenharia de software no <a href="https://www.inteli.edu.br">Instituto de Tecnologia e Liderança</a>.</li>
     <li>Sou apaixonada por artes, música e literatura.</li>
    </ul>
+   
+<h3>Propósito</h3>
+  <ul>
+  <li>Continuar atuando voluntariamente, buscando mudar e impactar a vida de pessoas (próximas ou distantes)
+<li>Democratizar o acesso à tecnologia (populações carentes ou iletrados digitalmente)</li>
+<li>Valorizar e aumentar a participação feminina na área de tecnologia e exatas</li>
+<li>Buscar desenvolvimento tecnológico sustentável e acessível</li>
+  
+  </ul>
 
-<h3>Fun fact:</h3>
+<h3>Fun facts</h3>
   <ul>
     <li>Sempre fui muito hiperativa, e quando criança quebrei os dois braçoes em sequência.</li>
     <li>Tenho o cabelo rosa há 3 anos, o que era um sonho de infância e se teornou minha marca.</li>
     <li>Tenho um bookgram (inativo).</li>
   </ul>
 
-<h3>Minha buddy:</h3>
+<h3>Minha buddy</h3>
  <ul>
     <li> Minha buddy é a <a href="https://github.com/thalytaviana">Thalyta Viana</a>, que me acompanhou e apoiou durante esse início de ano! </li>
  </ul>
