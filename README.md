@@ -1,6 +1,6 @@
-<h1 align="center">Oi! Eu sou a Anny</h1>
-<h3 align="center">Estudante de Engenharia de Software no Inteli</h3>
-<h3 align="center">Seja bem-vindo ao meu perfil!</h3>
+<h1>Oi, eu sou a Anny! Seja bem-vindo ao meu perfil!</h1>
+<h3>Sobre mim</h3>
+  - Tenho 18 anos
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=m98t0be8mdzf5a627d203jmoh)
 - ⚡ Fun fact **Um fato curioso sobre mim é que**
