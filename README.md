@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FE0197&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
 <h3>Sobre mim:</h3>
   <ul>
     <li>Tenho 18 anos.</li>
@@ -24,8 +24,4 @@
   <a href="https://github.com/annyjhulia" target="_blank">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annyjhulia&theme=jolly&layout=compact" alt="Linguagens mais utilizadas pela Anny"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/annyjhulia/annyjhulia/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
