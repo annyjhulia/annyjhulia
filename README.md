@@ -22,7 +22,7 @@
 <h3>Fun facts</h3>
   <ul>
     <li>🎢 Sempre fui muito hiperativa, e quando criança quebrei os dois braçoes em sequência.</li>
-    <li>🪩 Tenho o cabelo rosa há 3 anos, o que era um sonho de infância e se teornou minha marca.</li>
+    <li>🪩 Tenho o cabelo rosa há 3 anos, o que era um sonho de infância e se tornou minha marca.</li>
     <li>📚 Tenho um <a href="https://www.instagram.com/lettersformoony" >bookgram</a> (inativo).</li>
   </ul>
 
