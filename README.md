@@ -2,8 +2,6 @@
  <h1>Anny por Anny</h1>
 </div>
 
----
-
 <h3>Sobre mim</h3>
   <ul>
     <li>🐚 Tenho 18 anos.</li>
