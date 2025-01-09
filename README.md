@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=D60081&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)<h2>Oi, eu sou a Anny!</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FE0197&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 <h3>Sobre mim:</h3>
   <ul>
     <li>Tenho 18 anos.</li>
@@ -14,7 +14,5 @@
   </ul>
 
 <h3>Minha buddy:</h3>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=annyjhulia&label=Profile%20views&color=0e75b6&style=flat" alt="annyjhulia" /> </p>
+ <ul>
+    <li> Minha buddy é a <a href="https://github.com/thalytaviana">Thalyta Viana</a>, que me acompanhou e apoiou durante esse início de ano!
