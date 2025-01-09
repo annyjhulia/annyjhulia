@@ -4,26 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annyjhulia&label=Profile%20views&color=0e75b6&style=flat" alt="annyjhulia" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annyjhulia" alt="annyjhulia" /></a> </p>
+
 - ⚡ Fun fact **Um fato curioso sobre mim é que**
-- 💬 Fale comigo: **annycerazi@gmail.com** 
+- 💬 Fale comigo: **annycerazi@gmail.com**
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/aannyjhulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aannyjhulia" height="30" width="40" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=annyjhulia)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annyjhulia&show_icons=true&locale=en&layout=compact" alt="annyjhulia" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annyjhulia)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annyjhulia&show_icons=true&locale=en" alt="annyjhulia" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=annyjhulia&show_icons=true)  
-
-<!--
-**annyjhulia/annyjhulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annyjhulia&" alt="annyjhulia" /></p>
