@@ -17,6 +17,8 @@
  <ul>
     <li> Minha buddy é a <a href="https://github.com/thalytaviana">Thalyta Viana</a>, que me acompanhou e apoiou durante esse início de ano!
 
+---
+
       
   <div align="center">
     <img height="120em" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=annyjhulia&hide=stars,prs&show_icons=true&theme=jolly" alt="Estatísticas do GitHub da Anny"/>
