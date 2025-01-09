@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+<p align="center"> <[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg) /> </p>
 <h1>Oi, eu sou a Anny! Seja bem-vindo ao meu perfil!</h1>
 <h3>Sobre mim:</h3>
   <ul>
