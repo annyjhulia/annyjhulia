@@ -8,11 +8,10 @@
    
 <h3>Propósito</h3>
   <ul>
-  <li>Continuar atuando voluntariamente, buscando mudar e impactar a vida de pessoas (próximas ou distantes)
-<li>Democratizar o acesso à tecnologia (populações carentes ou iletrados digitalmente)</li>
-<li>Valorizar e aumentar a participação feminina na área de tecnologia e exatas</li>
-<li>Buscar desenvolvimento tecnológico sustentável e acessível</li>
-  
+    <li>Continuar atuando voluntariamente, buscando mudar e impactar a vida de pessoas (próximas ou distantes).</li>
+    <li>Democratizar o acesso à tecnologia (populações carentes ou iletrados digitalmente).</li>
+    <li>Valorizar e aumentar a participação feminina na área de tecnologia e exatas.</li>
+    <li>Buscar desenvolvimento tecnológico sustentável e acessível.</li>
   </ul>
 
 <h3>Fun facts</h3>
