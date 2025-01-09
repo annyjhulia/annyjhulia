@@ -18,7 +18,7 @@
   <ul>
     <li>Sempre fui muito hiperativa, e quando criança quebrei os dois braçoes em sequência.</li>
     <li>Tenho o cabelo rosa há 3 anos, o que era um sonho de infância e se teornou minha marca.</li>
-    <li>Tenho um <a href="www.instagram.com/lettersformoony"?color=FE1097>bookgram</a> (inativo).</li>
+    <li>Tenho um <a href="www.instagram.com/lettersformoony">bookgram</a> (inativo).</li>
   </ul>
 
 <h3>Conheça minha buddy</h3>
