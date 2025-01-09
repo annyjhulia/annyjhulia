@@ -25,3 +25,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annyjhulia&theme=jolly&layout=compact" alt="Linguagens mais utilizadas pela Anny"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github.com/annyjhulia/annyjhulia/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
