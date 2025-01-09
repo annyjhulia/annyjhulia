@@ -5,9 +5,10 @@
     <li>Atualmente cursando engenharia de software no <a color=FE1097 href="https://www.inteli.edu.br">Instituto de Tecnologia e Liderança</a>.</li>
     <li>Sou apaixonada por artes, música e literatura.</li>
    </ul>
+
+   <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY0NTQwNzksIm5iZiI6MTczNjQ1Mzc3OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA5VDIwMTYxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiNzk4NWM2YWI0ODk3ZWJkNWM5ZGQwODBmNzAwZDNlYjQ2YmU0MzFlNGEwNjRlMjQ3OGZiMDRjNzA1Y2ExMGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a1ovTJGcunWZtJ5gi9qKvqyk6-Mg40ap0niPyYoUR5Q" alt="Descrição do GIF" width="200px" align="right">
    
 <h3>Propósito</h3>
-<img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY0NTQwNzksIm5iZiI6MTczNjQ1Mzc3OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA5VDIwMTYxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiNzk4NWM2YWI0ODk3ZWJkNWM5ZGQwODBmNzAwZDNlYjQ2YmU0MzFlNGEwNjRlMjQ3OGZiMDRjNzA1Y2ExMGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a1ovTJGcunWZtJ5gi9qKvqyk6-Mg40ap0niPyYoUR5Q" alt="Descrição do GIF" width="200px" align="right">
   <ul>
     <li>Continuar atuando voluntariamente, buscando mudar e impactar a vida de pessoas (próximas ou distantes).</li>
     <li>Democratizar o acesso à tecnologia (populações carentes ou iletrados digitalmente).</li>
