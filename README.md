@@ -1,4 +1,5 @@
 <h1 align="center">Oi! Eu sou a Anny</h1>
+<h3 align="center">🧶🪡🦉🐚🌻🪐💫🧁🍫🛼🏋️‍♀️🎭🎼🎢📷⚖️🧿🪩💌📐</h3>
 <h3 align="center">Estudante de Engenharia de Software no Inteli</h3>
 <h3 align="center">Seja bem-vindo ao meu perfil!</h3>
 
