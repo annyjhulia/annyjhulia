@@ -24,6 +24,7 @@
    <li>🎢 Sempre fui muito hiperativa, e quando criança quebrei os dois braçoes em sequência.</li>
    <li>🪩 Tenho o cabelo rosa há 3 anos, o que era um sonho de infância e se tornou minha marca.</li>
    <li>🚸 Fui monitora do colégio por 3 anos e, por isso, sou "tia" e até "mãe" de crianças de todas as idades (até as que já são mais altas que eu).</li>
+   <li>Tenho um <a href="https://www.instagram.com/lettersformoony">bookgram</a> (inativo).</li>
   </ul>
 
 <h3>Conheça minha buddy</h3>
