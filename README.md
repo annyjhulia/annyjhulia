@@ -1,7 +1,8 @@
  <div align="center">
   <img src="https://github.com/annyjhulia/ups/blob/main/gifgif.gif" alt="Descrição do GIF" eight="120em" align="center">
-  ---
+ </div>
  
+  <div align="center">
   <a href="https://www.linkedin.com/in/anny-cerazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
   <a href="https://instagram.com/aannyjhulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
  </div>
