@@ -1,4 +1,4 @@
-<img src="https://github.com/annyjhulia/ups/blob/main/gif%20welcome.gif" alt="Descrição do GIF" width="250px" align="right">
+<img src="https://github.com/annyjhulia/ups/blob/main/gif%20welcome.gif" alt="Descrição do GIF" width="500px" align="center">
 
 <div align="center">
  <h1>Anny por Anny</h1>
