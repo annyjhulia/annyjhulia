@@ -1,8 +1,9 @@
  <div align="center">
   <img src="https://github.com/annyjhulia/ups/blob/main/gifgif.gif" alt="Descrição do GIF" eight="120em" align="center">
  </div>
----
 
+ ---
+ 
 <h3>Sobre mim</h3>
   <ul>
     <li>🐚 Tenho 18 anos.</li>
