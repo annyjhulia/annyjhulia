@@ -2,6 +2,8 @@
   <img src="https://github.com/annyjhulia/ups/blob/main/gifgif.gif" alt="Descrição do GIF" eight="120em" align="center">
  </div>
 
+---
+
 <div align="center">
  <h1>Anny por Anny</h1>
 </div>
