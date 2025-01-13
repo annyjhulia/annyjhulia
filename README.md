@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://github.com/annyjhulia/ups/blob/main/gifgif.gif" alt="Descrição do GIF" eight="120em" align="center">
+  <img src="https://github.com/annyjhulia/ups/blob/main/gifgifgif.gif" alt="Descrição do GIF" eight="120em" align="center">
  </div>
 
 ---
