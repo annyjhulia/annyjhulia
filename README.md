@@ -1,3 +1,5 @@
+<img src="https://github.com/annyjhulia/ups/blob/main/gif%20welcome.gif" alt="Descrição do GIF" width="250px" align="right">
+
 <div align="center">
  <h1>Anny por Anny</h1>
 </div>
