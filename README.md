@@ -21,14 +21,6 @@
     <li>🦉 Buscar desenvolvimento tecnológico sustentável e acessível.</li>
   </ul>
 
-<h3>Fun facts</h3>
-  <ul>
-   <li>🎢 Sempre fui muito hiperativa, e quando criança quebrei os dois braçoes em sequência.</li>
-   <li>🪩 Tenho o cabelo rosa há 3 anos, o que era um sonho de infância e se tornou minha marca.</li>
-   <li>📚 Tenho um <a href="https://www.instagram.com/lettersformoony">bookgram</a> (inativo).</li>
-   <li>🎒 Uma peculiaridade: sempre fui obcecada por bolsas, desde bebê. Até hoje carrego uma bolsinha para todos os lugares, seja uma simples ou até uma de crochê, feita por mim mesma.</li>
-  </ul>
-
 <h3>Conheça minha buddy</h3>
  <ul>
     <li> 💌 Minha buddy é a <a href="https://github.com/thalytaviana" >Thalyta Viana</a>, que está me acompanhando e apoiando durante esse início de ano! </li>
