@@ -1,12 +1,6 @@
- <div align="center">
-  <img src="https://github.com/annyjhulia/ups/blob/main/gifgif.gif" alt="Descrição do GIF" eight="120em" align="center">
- </div>
-
- ---
- 
 <h3>Sobre mim</h3>
   <ul>
-    <li>🐚 Tenho 18 anos.</li>
+    <li>🐚 Tenho 19 anos.</li>
     <li>🎭 Sou apaixonada por artes, música, literatura e inovações.</li>
     <li>⌨️ Atualmente cursando engenharia de software no <a href="https://www.inteli.edu.br" >Instituto de Tecnologia e Liderança</a>.</li>
   </ul>
