@@ -14,12 +14,6 @@
     <li>🧿 Valorizar e aumentar a participação feminina na área de tecnologia e exatas.</li>
     <li>🦉 Buscar desenvolvimento tecnológico sustentável e acessível.</li>
   </ul>
-
-<h3>Conheça minha buddy</h3>
- <ul>
-    <li> 💌 Minha buddy é a <a href="https://github.com/thalytaviana" >Thalyta Viana</a>, que está me acompanhando e apoiando durante esse início de ano! </li>
- </ul>
-
 ---
 
  <div align="center">
